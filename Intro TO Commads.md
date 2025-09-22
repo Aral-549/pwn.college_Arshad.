@@ -16,6 +16,8 @@ Noted that hello ≠ HELLO
 
 ## What I learned
 > commands are case sensitive
+>
+> 
 > learned few commands like cat, ./hello,grep --help .
 
 ## References 

@@ -7,7 +7,7 @@
 **Flag:** `pwn.college{smOz8tQ87PJnxHDUYD3qAaSdjJq.0lNzEzNxwSN5gjNzEzW}
 `
 
-**Thought process** :  just  followed the instructions to get the flag.
+**Thought process** :  Followed the instructions to get the flag.
 
 
 ## What I learned

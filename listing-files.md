@@ -24,7 +24,7 @@ bash
 
 
 ## What I learned
->* learn what the command 'ls' does and how it can be used.
+>* learned what the command 'ls' does and how it can be used.
 > 
 >
 >* format : ls /path

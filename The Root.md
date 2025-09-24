@@ -8,6 +8,8 @@
 **Thought process** :   Followed the instructions to get the flag.
 
 Inputed the command
+
+bash
 ```bash
 /pwn
 ```

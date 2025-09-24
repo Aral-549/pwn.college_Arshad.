@@ -10,6 +10,8 @@
 **Thought process** :   Followed the instructions to get the flag.
 
 Inputed the command
+
+
 bash 
 ```bash
 cd /
@@ -17,7 +19,7 @@ cd /
 /challenge/run
 
 ```
-Noted that inputting pwn does not work as its not  an absolute path
+
 
 ## What I learned
 > learned how to use 'cd' Command

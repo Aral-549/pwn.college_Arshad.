@@ -23,7 +23,7 @@ bash
 
 
 ## What I learned
-> * learn what the command 'diff' does and how it can be used.
+> * learned what the command 'diff' does and how it can be used.
 > 
 >
 > * format : diff file1 file1.

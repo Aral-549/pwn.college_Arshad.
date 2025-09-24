@@ -10,12 +10,14 @@
 **Thought process** :   Followed the instructions after testing once to get the flag.
 
 Inputed the command
+
+
 bash
 ```bash
   /challenge/run
 
 ```
-Noted that inputting pwn does not work as its not  an absolute path
+
 
 ## What I learned
 > learn how to navigate and change the directories using the 'cd' command 

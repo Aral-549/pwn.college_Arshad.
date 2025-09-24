@@ -24,7 +24,7 @@ rm delete_me
 
 
 ## What I learned
->* learn what the command 'rm' does and how it can be used.
+>* learned what the command 'rm' does and how it can be used.
 > 
 >
 >* format : rm file1 file2

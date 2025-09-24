@@ -1,7 +1,7 @@
 
 # Intro to Commands 
 
-**Problem** : The problem is to invoke  command  the absolute path "challenge/run" in a '/' directory
+**Problem** : The problem is to invoke  command  the relative path "challenge/run" in a '/' directory
 
 ## My solve
 
@@ -15,7 +15,7 @@ bash
   challenge/run
 
 ```
-Noted that inputting pwn does not work as its not  an absolute path
+
 
 ## What I learned
 > learn how to navigate and change the directories using the 'cd' command 

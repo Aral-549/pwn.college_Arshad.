@@ -1,8 +1,7 @@
 
 # Intro to Commands 
 
-**Problem** : The problem is to invoke  "/challenge/run"
-the absolute path 
+**Problem** : The problem is to invoke  "/challenge/run" the absolute path 
 ## My solve
 
 **Flag:** `pwn.college{QdCfcTDWezQXvw-SyJBoKDvFDwd.QX1QTN0wSN5gjNzEzW}`
@@ -10,11 +9,12 @@ the absolute path
 **Thought process** :   Followed the instructions to get the flag.
 
 Inputed the command
+
+bash
 ```bash
   /challenge/run
 
 ```
-Noted that inputting pwn does not work as its not  an absolute path
 
 ## What I learned
 > learned  how files are stored in linux

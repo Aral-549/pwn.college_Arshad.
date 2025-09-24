@@ -24,7 +24,7 @@ touch pwn college
 
 
 ## What I learned
->* learn what the command 'touch' does and how it can be used.
+>* learned what the command 'touch' does and how it can be used.
 > 
 >
 >* format : touch file1 file2

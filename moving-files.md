@@ -24,7 +24,7 @@ mv  /flag /tmp/hack-the-planet
 >* learned what the command 'mv' does and how it can be used.
 > 
 >
->* format : mv file1 file2 moves file1 contents to file 2
+>* format : *mv file1 file2*     moves file1 contents to file 2
 > 
 > 
 ## References

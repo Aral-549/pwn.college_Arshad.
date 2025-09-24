@@ -22,7 +22,7 @@ bash
 
 
 ## What I learned
-> learn what the command 'cat' does and how it can be used 
+> learned what the command 'cat' does and how it can be used 
 >
 >
 >cat is used to read the files not in the home drectory

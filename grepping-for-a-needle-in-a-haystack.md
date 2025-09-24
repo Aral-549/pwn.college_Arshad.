@@ -21,7 +21,7 @@ bash
 
 
 ## What I learned
-> learn what the command 'grep' does and how it can be used.
+> learned what the command 'grep' does and how it can be used.
 > 
 >
 >format : grep Srearch_string /path/to/file.

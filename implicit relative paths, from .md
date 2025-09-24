@@ -10,6 +10,8 @@
 **Thought process** :   Followed the instructions after testing once to get the flag.
 
 Inputed the command
+
+
 bash
 ```bash
   challenge/run

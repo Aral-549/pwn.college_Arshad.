@@ -31,7 +31,7 @@ cd /c*e
 >
 >
 
-> 
+> '*' it reduces the length of name of file
 > 
 >  
 

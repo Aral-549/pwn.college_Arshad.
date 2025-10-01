@@ -1,4 +1,4 @@
-# Intro to Commands 
+# Command History 
 
 **Problem** : Asks to Acsess the History of commands used 
 

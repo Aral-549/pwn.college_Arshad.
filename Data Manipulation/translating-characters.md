@@ -1,4 +1,4 @@
-# Intro to Commands 
+# Data Manipulation
 
 **Problem** : The problem is to find flag by converting lower cases to uppercases and viceversa
 ## My solve

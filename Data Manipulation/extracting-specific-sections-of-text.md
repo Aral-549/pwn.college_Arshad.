@@ -1,4 +1,4 @@
-# Intro to Commands 
+# Data Manipulation
 
 **Problem** : The problem is to find flag by removing a specific column in the /challenge/run output
 ## My solve

@@ -1,4 +1,4 @@
-# Intro to Commands 
+# Data Manipulation
 
 **Problem** : The problem is to find flag by piping the first 7 lines of a prohram to /challenge/college
 ## My solve

@@ -1,4 +1,4 @@
-# Intro to Commands 
+# Intro to Arguments
 
 **Problem** : it asks to type hello as a  command and hackers as an argument
 compared to writing echo(command)+ (argument) to find the flag

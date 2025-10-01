@@ -25,4 +25,4 @@ ps aux
 > * *ps -ef* is similar to *pa aux* to disable the truncatation in the terminal use *ps auxww* and *ps -efww*
 
 ## References 
-[PWN college Youtube Video](https://youtu.be/b67Jq6IZ3U8?list=PL-ymxv0nOtqqRAz1x90vxNbhmSkeYxHVC)
+Just Read the Instructins and Resources

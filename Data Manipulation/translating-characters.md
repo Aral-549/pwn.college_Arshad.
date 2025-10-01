@@ -7,10 +7,6 @@
 
 **Thought process** :   Followed the instructions after testing once to get the flag.
 
-
-the output of the /challenge/run command is directly sent to grep therby creating no temp files
-
-
 Inputed the command
 bash
 ```bash

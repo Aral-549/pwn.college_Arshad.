@@ -1,4 +1,4 @@
-# Intro to Commands 
+# Data Manipulation 
 
 **Problem** : The problem is to find flag by sorting the output of /challenge/flags.txt
 ## My solve

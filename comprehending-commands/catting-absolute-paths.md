@@ -1,7 +1,7 @@
 
 
 
-# Intro to Commands 
+# Catting Absolute Paths
 
 **Problem** : The problem is to nvoke  the command 'cat' to check the file 'flag' which is not in home directory but it's readable
 ## My solve

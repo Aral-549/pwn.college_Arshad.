@@ -1,6 +1,6 @@
 
 
-# Intro to Commands 
+# Cat not the pet but the command
 
 **Problem** : The problem is to nvoke  the command 'cat' to check the file 'flag'  
 i

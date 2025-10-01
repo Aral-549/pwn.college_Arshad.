@@ -1,7 +1,7 @@
 
 # Listing-Processes 
 
-**Problem** : The problem is to invoke  command  the absolute path "/challenge/run" in a specific directory
+**Problem** : The problem is to invoke  command  ps aux to find the name of the command
 
 ## My solve
 

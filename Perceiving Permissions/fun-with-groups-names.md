@@ -1,7 +1,7 @@
 
 # Fun-with-Groups-and-files
 
-**Problem** : The problem is to add the flag into the hacker group with *chgrp*
+**Problem** : The problem is to add the flag into the particular group with *chgrp*
 ## My solve
 
 **Flag:** `pwn.college{cxS35YC38m59X_8XUrmy3lYyIG2.QXycjM1wSN5gjNzEzW}`

@@ -14,6 +14,6 @@
 
 
 ## What I learned
-> * Usage of *command1 && command2* --> /challenge/first-success && /challenge/second
+> * Usage of *command1 && command2* --> Run command1, and IF it succeeds, then run command2.
 ## References 
 Just the Instructins and Resources

@@ -13,7 +13,6 @@
 /challenge/pwn; /challenge/college
 
 ```
- </details>
 
 ## What I learned
 > * learned how to join the commands using ';' rather than executiong it twice

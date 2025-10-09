@@ -4,9 +4,9 @@
 **Problem** : The problem is to run /challenge/run after running a script which tests if first argument is *pwn* or not 
 ## My solve
 
-**Flag:** `pwn.college{o9aJrnDkvk3qodYzCz3eChepdAL.0VOzMDOxwSN5gjNzEzW}`
+**Flag:** ` pwn.college{sXtPtF86WSHFemZZ3vd4fBsIjo-.0lNzMDOxwSN5gjNzEzW} `
 
-**Thought process** :  Sucessfully created *solve.sh* file using the shebangs * #!/bin/bash* wrot a bash program to check if the first argument is *pwn* or not
+**Thought process** :  Sucessfully created *solve.sh* file using the shebangs * #!/bin/bash* wrote a bash program to check if the first argument is *pwn* or not
 <details> <summary><strong>Code</strong></summary>
 
 ```bash
